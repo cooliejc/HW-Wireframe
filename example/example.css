@@ -69,6 +69,8 @@ aside {
 }
 
 footer {
+  clear: both;
+  overflow: auto;
   padding: 20px;
   background-color: #FFA500;
 }

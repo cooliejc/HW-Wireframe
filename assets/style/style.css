@@ -1,0 +1,76 @@
+/**
+* Homework - CSS Wireframe layout
+**/
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    background-color: #666666;
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 150px 20px 150px;
+}
+
+header {
+    padding: 30px;
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+#nav {
+    padding: 30px;
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+section {
+    padding: 30px;
+    margin: 10px 5px 20px 20px;
+    width: 55%;
+    float: left;
+    background-color: #ffffff;
+    overflow: auto;
+    clear: both;
+}
+
+#article {
+    margin: 20px;
+    padding: 20px;
+    background-color: #666666;
+    color: #ffffff;
+}
+
+#article-1 {
+    padding: 20px;
+    margin: 20px;
+    background-color: #ffffff;
+    color: #666666;
+
+}
+
+#article-2 {
+    padding: 20px;
+    margin: 20px;
+    background-color: #ffffff;
+    color: #666666;
+}
+
+aside {
+    float: right;
+    width: 37.5%;
+    height: 352px;
+    padding: 20px;
+    margin: 10px 20px 20px 5px;
+    background-color: #ffffff;
+
+}
+
+footer {
+    clear: both;
+    padding: 30px;
+    margin: 20px;
+    background-color: #ffffff;
+}
